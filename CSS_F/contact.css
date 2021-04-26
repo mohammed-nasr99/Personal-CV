@@ -1,0 +1,7 @@
+img{position: absolute;left: 40%;bottom:20%; height:600px}
+input{border-radius: 20px;height: 25px;width:200px;padding: 10px;background-color: #d0d4d4}
+form{text-align: center;}
+.Form2{border: 2px;background-color: #077676;width: 300px;height:400px;right: 40%;top: 20%;position: absolute;border-top-left-radius:50px;border-bottom-right-radius: 50px}
+.links {right: 41%;top: 80%;position: absolute;}
+a{text-decoration: none;padding: 10px;font-size: 20px; color:#094daa}
+a:hover{background-color:#d0d4d4 }
